@@ -1,4 +1,4 @@
-🔍 Sentiment Analysis on Amazon Echo Reviews
+🔍 Sentiment Analysis on Amazon Echo Reviews (https://amazonalexa-siddharth110.streamlit.app/)
 
 This project focuses on performing sentiment analysis on real-world customer reviews of Amazon Echo devices. The goal is to extract valuable insights from user feedback to understand overall customer satisfaction and product perception.
 
