@@ -49,7 +49,7 @@ Visual insights into review trends and customer sentiments
 
 📦 Installation
 
-git clone https://github.com/yourusername/Amazon-Echo-Sentiment-Analysis.git
+git clone https://github.com/yourusername/Amazon_Echo_Sentiment_Analysis.git
 cd Amazon-Echo-Sentiment-Analysis
 pip install -r requirements.txt
 
